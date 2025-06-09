@@ -128,12 +128,6 @@ jupyter notebook SVM.ipynb
 ### Long-Term Objectives
 - [ ] Mobile application for symptom monitoring
 
-## Contributing
-
-We welcome contributions to this research project! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details.
-
-Current research collaborations:
-- Neurology Department at Habib Bourguiba Hospital
 
 ## License
 
